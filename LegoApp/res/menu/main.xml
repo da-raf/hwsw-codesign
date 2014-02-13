@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_connect"
+        android:icon="@drawable/cartwheel"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_connect"/>
+    
+    <item
+        android:id="@+id/action_receiveData"
+        android:icon="@drawable/ic_launcher"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_receive_message"/>
+    
+    <item
+        android:id="@+id/action_sendData"
+        android:icon="@drawable/car"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_send_message"/>
+
+</menu>

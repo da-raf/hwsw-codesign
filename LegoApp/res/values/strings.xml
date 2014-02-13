@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LegoApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_connect">Connect</string>
+        <string name="action_receive_message">Receive Message</string>
+            <string name="action_send_message">Send Message</string>
+    <string name="dialog_APnotFound">Access Point not found</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>
